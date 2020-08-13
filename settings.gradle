@@ -1,0 +1,3 @@
+include ':EasyDecorations'
+include ':app'
+rootProject.name = "Decorations"
